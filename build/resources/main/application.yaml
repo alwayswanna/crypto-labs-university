@@ -1,5 +1,0 @@
-app-config:
-  password-expired-period-days: 14
-  countPassPerUnitTime: 15
-  unitTime: MINUTES
-  passwordGuessingProbability: 0.0001
