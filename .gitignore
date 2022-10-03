@@ -7,3 +7,17 @@
 /.idea/vcs.xml
 /.idea/workspace.xml
 /.idea/sonarlint/issuestore/index.pb
+/password-strength-lab/gradlew
+/password-strength-lab/gradlew.bat
+/password-strength-lab/gradle/wrapper/gradle-wrapper.jar
+/password-strength-lab/gradle/wrapper/gradle-wrapper.properties
+/password-strength-lab/.gradle/
+/gradlew
+/gradlew.bat
+/gradle/wrapper/gradle-wrapper.properties
+/gradle/wrapper/gradle-wrapper.jar
+/.gradle
+/password-generator-lab-2/gradlew
+/password-generator-lab-2/gradlew.bat
+/.idea/
+/password-strength-lab/build/
