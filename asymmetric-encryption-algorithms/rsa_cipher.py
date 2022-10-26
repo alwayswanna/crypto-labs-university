@@ -6,7 +6,7 @@ def rsa_test():
     (public_key, private_key) = rsa.newkeys(512)
     print(str('Public key: ' + str(public_key)) + "\n\n" + str('Private key: ' + str(private_key)))
 
-    user_message = input('Input message: ').encode('utf8')
+    user_message = input('Input message: ').encode("utf8")
     crypto = rsa.encrypt(user_message, public_key)
     message = rsa.decrypt(crypto, private_key)
 
